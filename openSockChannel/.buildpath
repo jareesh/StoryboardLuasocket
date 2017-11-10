@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path=""/>
+	<buildpathentry exported="true" kind="con" path="org.eclipse.ldt.ExecutionEnvironmentContainer/lua/5.1"/>
+	<buildpathentry kind="con" path="org.eclipse.ldt.ExecutionEnvironmentContainer/lua/5.2"/>
+	<buildpathentry external="true" kind="lib" path="C:/luajava/luajava-1.1.jar"/>
+	<buildpathentry external="true" kind="lib" path="/Program Files (x86)/Crank_Software/Storyboard_Designer/configuration/org.eclipse.osgi/19/0/.cp/resources/lua/api.zip"/>
+</buildpath>
